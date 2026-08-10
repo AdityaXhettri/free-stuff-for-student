@@ -121,6 +121,6 @@ Verified or widely-reported student offers. Confirm on each provider's site, as 
 ## Credits & Acknowledgments
 This list extends the original curated set with widely-available student offers across dev tools, cloud, design, productivity, hardware, and media.
 
-**Maintained and expanded by:** Adity — assembled with help from Trae AI.
+**Maintained and expanded by:** Aditya Chettri.
 
 If you spot a broken link, a new student offer, or an outdated deal, please open an issue or PR — students everywhere thank you.
