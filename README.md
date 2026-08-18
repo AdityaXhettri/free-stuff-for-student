@@ -118,6 +118,96 @@ Verified or widely-reported student offers. Confirm on each provider's site, as 
 
 ---
 
+## More Resources for Students
+Additional widely-available free or discounted offers for students. Confirm each on the provider's site, as terms change.
+
+### Research & Academic Tools
+* [Overleaf](https://www.overleaf.com/) - Free LaTeX editor with real-time collaboration and templates for students.
+* [Zotero](https://www.zotero.org/) - Free open-source reference manager and citation tool for academic research.
+* [Mendeley](https://www.mendeley.com/) - Free reference manager with PDF reader and citation features.
+* [SciSpace](https://typeset.io/) - Free AI-powered tool for reading, writing, and publishing research papers.
+* [Elicit](https://elicit.com/) - Free AI research assistant that finds and summarizes scientific papers.
+* [Consensus](https://consensus.app/) - Free AI search engine that pulls answers from peer-reviewed studies.
+* [Papers with Code](https://paperswithcode.com/) - Free ML papers, code, benchmarks, and datasets.
+* [arXiv](https://arxiv.org/) - Free open-access archive of scholarly articles in STEM.
+* [Google Scholar](https://scholar.google.com/) - Free search engine for scholarly literature across many disciplines.
+
+### ML, AI & Data Science
+* [Google Colab](https://colab.research.google.com/) - Free Jupyter notebooks in the browser with free GPU and TPU access.
+* [Kaggle](https://www.kaggle.com/) - Free competitions, datasets, courses, and free GPU notebooks.
+* [Hugging Face](https://huggingface.co/) - Free access to ML models, datasets, and Spaces for students.
+* [Weights & Biases](https://wandb.ai/) - Free Pro plan for academic and student use.
+* [Streamlit](https://streamlit.io/) - Free Community Cloud tier for hosting data apps.
+
+### Whiteboarding & Diagramming
+* [Excalidraw](https://excalidraw.com/) - Free hand-drawn-style whiteboard for sketches, diagrams, and notes.
+* [tldraw](https://www.tldraw.com/) - Free collaborative whiteboard with a developer-friendly SDK.
+* [Miro](https://miro.com/education/) - Free Education plan for verified students and educators.
+* [Whimsical](https://whimsical.com/) - Free Education plan for verified students (flowcharts, wireframes, mind maps).
+* [Lucidchart](https://www.lucidchart.com/) - Free Education account for students with verified school email.
+
+### Notes, Study & Time Management
+* [Obsidian](https://obsidian.md/) - Free for personal use; 50% student discount on Sync and Publish.
+* [Anki](https://apps.ankiweb.net/) - Free open-source spaced-repetition flashcard app for studying.
+* [RemNote](https://www.remnote.com/) - Free plan plus student discount on Pro for note-taking and learning.
+* [Logseq](https://logseq.com/) - Free open-source knowledge base built on plain-text Markdown.
+* [Toggl Track](https://toggl.com/) - Free Pro plan for students via student verification.
+* [Freedom](https://freedom.to/) - Discounted plans for students to block distractions across devices.
+* [Cold Turkey](https://getcoldturkey.com/) - Discounted Blocker Pro for students.
+* [RescueTime](https://www.rescuetime.com/) - Discounted Premium plan for students.
+
+### Communication, Video & Collaboration
+* [Loom](https://www.loom.com/) - Free Pro for students via GitHub Student Pack (screen recording).
+* [Krisp](https://krisp.ai/) - Free Pro for students (AI noise-cancellation for calls).
+* [Whereby](https://whereby.com/) - Free plan for students; Pro perks in some regions.
+* [Linear](https://linear.app/) - Free for verified students (project tracking for engineering teams).
+* [Height](https://height.app/) - Free Pro for students (autonomous project management).
+* [Asana](https://asana.com/) - Free Premium for verified students and educators.
+
+### API Development & Testing
+* [Postman](https://www.postman.com/) - Free API client; free plan for students and educators.
+* [Insomnia](https://insomnia.rest/) - Free open-source API client for designing and testing APIs.
+* [Hoppscotch](https://hoppscotch.com/) - Free open-source API development ecosystem.
+* [Bruno](https://www.usebruno.com/) - Free open-source API client with offline-first and Git-friendly collections.
+
+### Video, Audio & Creative Production
+* [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Free professional-grade video editing and color grading.
+* [Blender](https://www.blender.org/) - Free open-source 3D creation suite (modeling, animation, rendering).
+* [GIMP](https://www.gimp.org/) - Free open-source image editor for photo retouching and composition.
+* [Inkscape](https://inkscape.org/) - Free open-source vector graphics editor.
+* [Audacity](https://www.audacityteam.org/) - Free open-source audio editor and recorder.
+* [OBS Studio](https://obsproject.com/) - Free open-source software for live streaming and screen recording.
+* [Kdenlive](https://kdenlive.org/) - Free open-source non-linear video editor.
+
+### Student Communities, Hackathons & Events
+* [Hack Club](https://hackclub.com/) - Free community, resources, and grants for high school coding clubs.
+* [Major League Hacking (MLH)](https://mlh.io/) - Free tools, mentorship, and event support for student hackathons.
+* [Devpost](https://devpost.com/) - Free platform to find, build, and submit to student hackathons.
+* [Hackathon.com](https://www.hackathon.com/) - Free list of upcoming in-person and online student hackathons.
+
+### Privacy, Security & Backup
+* [Bitwarden](https://bitwarden.com/) - Free Premium for students via student verification (password manager).
+* [Proton](https://proton.me/) - Discounted Proton Mail, VPN, and Drive bundles for students.
+* [Backblaze](https://www.backblaze.com/) - Discounted unlimited backup for students.
+* [Tailscale](https://tailscale.com/) - Free Personal plan; popular among students for secure dev networking.
+
+### Hosting, Databases & Backend
+* [Supabase](https://supabase.com/) - Free Pro for students via GitHub Student Pack (Postgres, auth, storage).
+* [PlanetScale](https://planetscale.com/) - Free Hobby plan and student-friendly MySQL serverless database.
+* [Railway](https://railway.app/) - Free trial and student-friendly hobby plan for app hosting.
+* [Render](https://render.com/) - Free tier for web services, APIs, and static sites.
+* [Fly.io](https://fly.io/) - Free allowance for running full-stack apps close to users.
+
+### Career, Internships & Interview Prep
+* [Levels.fyi Student](https://www.levels.fyi/) - Free salary and compensation data for tech internships and new grads.
+* [Intern Supply](https://www.intern.supply/) - Free newsletter of curated tech internships for students.
+* [Simplify](https://simplify.jobs/) - Free job and internship board tailored to new grads and students.
+* [HackerEarth](https://www.hackerearth.com/) - Free student-tier access to coding challenges and hackathons.
+* [LeetCode](https://leetcode.com/) - Discounted Premium for students (interview practice).
+* [HackerRank](https://www.hackerrank.com/) - Free for students to practice skills and earn certifications.
+
+---
+
 ## Credits & Acknowledgments
 This list extends the original curated set with widely-available student offers across dev tools, cloud, design, productivity, hardware, and media.
 
